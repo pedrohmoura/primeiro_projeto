@@ -1,5 +1,1 @@
-# primeiro_projeto
-
-
-
-Projeto do Minicurso de Git/Github, 2015
+# primeiro_projetoProjeto do Minicurso de Git/Github
